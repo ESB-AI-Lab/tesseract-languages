@@ -18,4 +18,4 @@ Data scraping, data labeling and model training done by:
 - [Doanh Nguyen](https://github.com/doanhandonly)
 - [Yashil Vora](https://github.com/yashilvora19)
 
-We used [LabelStudio](https://labelstud.io/guide) community edition and [Docker](https://www.docker.com/) for assisting in data labeling and the [San Diego Super Computing Cluster](https://www.sdsc.edu/) for training.
+We used [LabelStudio](https://labelstud.io/guide) community edition and [Docker](https://www.docker.com/) for assisting in data labeling and [Singularity CE](https://sylabs.io/docs/) and the [San Diego Super Computing Cluster](https://www.sdsc.edu/) for training.
