@@ -10,13 +10,13 @@ The Hawaiian alphabet consists of 13 letters:
 H, K, L, M, N, P, W, A, E, I, O, U, ʻ (ʻokina) and with vowels that can contain kahako's (ā, ē, ī, ō, ū).
 
 Data scraping, data labeling and model training done by:
-- [Edwin Solares, PhD Lead PI](http://edwinsolares.com/)
+- [Edwin Solares, Ph.D. Lead PI](http://edwinsolares.com/)
 - [Anthony Tong](https://github.com/atong28)
 - [Welo Gosline-Niheu](https://github.com/weloniheu)
 - [Andrew Pan](https://github.com/pandrew99)
 - [Sadrac Santa-Cruz](https://github.com/SadracSantacruz)
 - [Doanh Nguyen](https://github.com/doanhandonly)
 - [Yashil Vora](https://github.com/yashilvora19)
-- [Nikhil Rao](https://github.com/nikhilitis)
+- [Nikhil Rao, M.S.](https://github.com/nikhilitis)
 
 We used [LabelStudio](https://labelstud.io/guide) community edition and [Docker](https://www.docker.com/) for assisting in data labeling and [Singularity CE](https://sylabs.io/docs/) and the [San Diego Super Computing Cluster](https://www.sdsc.edu/) for training.
